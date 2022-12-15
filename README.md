@@ -1,3 +1,3 @@
-# Template de Currículo 
+# Currículo Alex Sandro Silva Batista de Souza
 
-Template em HTML e CSS para um breve hands on durante a Master Class "Criando um Currículo de Sucesso - O Passo a Passo em Tempo Real".
+* Resumo das minhas experiências acadêmicas e profissionais

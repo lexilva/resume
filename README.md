@@ -1,6 +1,6 @@
 # 📄 Currículo - Alex Sandro Silva Batista de Souza
 
-Este repositório contém o resumo das minhas **experiências acadêmicas** e **profissionais**, refletindo minha trajetória como desenvolvedor e profissional na área de tecnologia.
+Este repositório contém o resumo das minhas **experiências acadêmicas** e **profissionais**, refletindo minha trajetória como desenvolvedor e profissional na área de tecnologia no idioma inglês.
 
 ## 🔍 Sobre o Currículo
 
